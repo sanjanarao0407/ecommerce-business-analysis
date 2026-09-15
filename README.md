@@ -40,3 +40,23 @@ Insights will be added after analyzing the dataset.
 ## Business Recommendations
 
 Recommendations will be developed based on the analysis.
+## Dashboard
+
+The dashboard provides a visual overview of e-commerce sales performance and customer-related insights.
+
+Key metrics and visualizations include:
+- Total Revenue
+- Total Quantity Sold
+- Total Orders
+- Average Order Value
+- Revenue by Region
+- Revenue by Product
+- Monthly Revenue
+- Quantity by Region
+
+The dashboard was created using Google Sheets with pivot tables and charts.
+
+## Dashboard Preview
+
+The complete dashboard is available in the PDF file:
+ecommerce_sales_dashboard.pdf
