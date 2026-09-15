@@ -2,61 +2,74 @@
 
 ## Project Overview
 
-This project analyzes e-commerce sales and customer data to identify
-business trends, customer behavior, product performance, and
-opportunities for business improvement.
+This project analyzes e-commerce sales data to understand sales performance, customer behavior, product performance, and regional trends. The analysis is designed to identify useful business insights that can support better decision-making.
 
 ## Business Problem
 
-The company wants to understand its sales performance and customer
-behavior in order to make better business decisions.
+The company wants to understand its sales performance and customer-related trends in order to identify high-performing products, strong regions, sales patterns, and potential areas for improvement.
 
 ## Project Objectives
 
-- Analyze overall sales performance
-- Identify top-performing products
-- Analyze regional sales performance
-- Understand customer purchasing behavior
-- Identify revenue and business trends
-- Provide data-driven business recommendations
+- Analyze overall e-commerce sales performance
+- Identify high-performing products
+- Compare revenue across different regions
+- Analyze monthly revenue trends
+- Compare quantity sold across regions
+- Calculate key business performance metrics
+- Present insights through an interactive-style dashboard
 
-## Key Business Questions
+## Key Performance Indicators
 
-1. Which products generate the highest revenue?
-2. Which regions have the strongest sales performance?
-3. Which customers contribute the most revenue?
-4. How do sales change over time?
-5. What areas of the business could be improved?
+- Total Revenue: 7,02,000
+- Total Quantity Sold: 49
+- Total Orders: 30
+- Average Order Value: 23,400
 
-## Tools Used
+## Dashboard Analysis
 
-- Excel
-- GitHub
+The dashboard contains the following visualizations:
 
-## Business Insights
-
-Insights will be added after analyzing the dataset.
-
-## Business Recommendations
-
-Recommendations will be developed based on the analysis.
-## Dashboard
-
-The dashboard provides a visual overview of e-commerce sales performance and customer-related insights.
-
-Key metrics and visualizations include:
-- Total Revenue
-- Total Quantity Sold
-- Total Orders
-- Average Order Value
 - Revenue by Region
 - Revenue by Product
 - Monthly Revenue
 - Quantity by Region
 
-The dashboard was created using Google Sheets with pivot tables and charts.
+These visualizations help compare business performance across products, regions, and months.
+
+## Key Insights
+
+- The South region generates the highest revenue among all regions.
+- Laptops are the highest-revenue product.
+- Smartphone sales also contribute significantly to overall revenue.
+- Monthly revenue shows an increasing trend from January to March.
+- The South region has the highest quantity sold.
+- The West region has the lowest revenue and quantity sold.
+
+## Business Recommendations
+
+- Focus on high-performing products such as laptops and smartphones.
+- Investigate the reasons behind the strong performance of the South region and apply successful strategies to other regions.
+- Develop targeted marketing campaigns for lower-performing regions.
+- Maintain sufficient inventory for high-demand products.
+- Continue monitoring monthly revenue trends to identify future growth opportunities.
+
+## Tools Used
+
+- Google Sheets
+- Pivot Tables
+- Charts and Data Visualization
+- Excel/CSV Data
+- GitHub
+
+## Project Deliverables
+
+- Raw e-commerce sales dataset
+- Pivot table analysis
+- Sales dashboard
+- Dashboard PDF
 
 ## Dashboard Preview
 
-The complete dashboard is available in the PDF file:
-ecommerce_sales_dashboard.pdf
+The complete dashboard is available in:
+
+`ecommerce_sales_dashboard.pdf`
